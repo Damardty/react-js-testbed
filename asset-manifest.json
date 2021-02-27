@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Damardty/react-js-testbed.git/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Damardty/react-js-testbed.git/static/js/main.4b2c93d7.chunk.js",
-    "main.js.map": "/Damardty/react-js-testbed.git/static/js/main.4b2c93d7.chunk.js.map",
-    "runtime-main.js": "/Damardty/react-js-testbed.git/static/js/runtime-main.ef8584b7.js",
-    "runtime-main.js.map": "/Damardty/react-js-testbed.git/static/js/runtime-main.ef8584b7.js.map",
-    "static/js/2.fbd3c74e.chunk.js": "/Damardty/react-js-testbed.git/static/js/2.fbd3c74e.chunk.js",
-    "static/js/2.fbd3c74e.chunk.js.map": "/Damardty/react-js-testbed.git/static/js/2.fbd3c74e.chunk.js.map",
-    "static/js/3.54e4ff21.chunk.js": "/Damardty/react-js-testbed.git/static/js/3.54e4ff21.chunk.js",
-    "static/js/3.54e4ff21.chunk.js.map": "/Damardty/react-js-testbed.git/static/js/3.54e4ff21.chunk.js.map",
-    "index.html": "/Damardty/react-js-testbed.git/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Damardty/react-js-testbed.git/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fbd3c74e.chunk.js.LICENSE.txt": "/Damardty/react-js-testbed.git/static/js/2.fbd3c74e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Damardty/react-js-testbed.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-js-testbed/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-js-testbed/static/js/main.4b2c93d7.chunk.js",
+    "main.js.map": "/react-js-testbed/static/js/main.4b2c93d7.chunk.js.map",
+    "runtime-main.js": "/react-js-testbed/static/js/runtime-main.4090d22b.js",
+    "runtime-main.js.map": "/react-js-testbed/static/js/runtime-main.4090d22b.js.map",
+    "static/js/2.fbd3c74e.chunk.js": "/react-js-testbed/static/js/2.fbd3c74e.chunk.js",
+    "static/js/2.fbd3c74e.chunk.js.map": "/react-js-testbed/static/js/2.fbd3c74e.chunk.js.map",
+    "static/js/3.54e4ff21.chunk.js": "/react-js-testbed/static/js/3.54e4ff21.chunk.js",
+    "static/js/3.54e4ff21.chunk.js.map": "/react-js-testbed/static/js/3.54e4ff21.chunk.js.map",
+    "index.html": "/react-js-testbed/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-js-testbed/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fbd3c74e.chunk.js.LICENSE.txt": "/react-js-testbed/static/js/2.fbd3c74e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-js-testbed/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef8584b7.js",
+    "static/js/runtime-main.4090d22b.js",
     "static/js/2.fbd3c74e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.4b2c93d7.chunk.js"
